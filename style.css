@@ -1,0 +1,6 @@
+h1 {width: 100%;text-align: left;}
+table {width: 100%;}
+td.imagen {width: 60%;background-color:#800000;text-align: center;}
+td.articulos {width: 40%;background-color:#FFC300;}
+table.index_main {height: 400px;}
+h2.index_main {font-style: italic;text-align: center;}
